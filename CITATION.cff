@@ -6,7 +6,7 @@ version: 1.0.0
 date-released: 2026-06-15
 authors:
     - family-names: "Stancu"
-    given-names: "Bogdan"
+       given-names: "Bogdan"
 repository-code: "https://github.com/bogdanstancu1119-maker/PSIE-Lab"
 license: MIT
 keywords:
@@ -20,6 +20,6 @@ references:
     title: "PSIE: Physics of Subjective Information and Existence"
     authors:
             - family-names: "Stancu"
-        given-names: "Bogdan"
+               given-names: "Bogdan"
     doi: 10.6084/m9.figshare.32389911
     year: 2026
