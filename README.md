@@ -1,4 +1,4 @@
-#[Open in Streamlit](link-ul-tau-streamlit) PSIE-Symbiote: Operational Engine for Ontological Substrate Decoupling
+[Open in Streamlit](https://ixkxaug7b9.streamlit.app)#[Open in Streamlit](link-ul-tau-streamlit) PSIE-Symbiote: Operational Engine for Ontological Substrate Decoupling
 
 **Teorie**: Acest repo implementează metricile din PSIE - Physics of Subjective Information and Existence  
 **DOI teorie**: [10.6084/m9.figshare.32389911](https://doi.org/10.6084/m9.figshare.32389911)  
